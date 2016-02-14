@@ -1,0 +1,28 @@
+name: Coffee Monks
+favicon: null
+layout_spectrum: 0.11072553624399006
+typography_spectrum: 0.2924802422057837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.24765648739412427
+  lightness: 0.392674473579973
+  saturation: 0.32207658351399004
+  rhythmicContrast: 0.2445433409884572
+purpose: []
